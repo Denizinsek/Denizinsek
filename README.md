@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizinsek&label=Profile%20views&color=0e75b6&style=flat" alt="denizinsek" /> </p>
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [http://denizinsek.com/](http://denizinsek.com/)
 
