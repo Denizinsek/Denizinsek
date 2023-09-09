@@ -5,9 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denizinsek&label=Profile%20views&color=0e75b6&style=flat" alt="denizinsek" /> </p>
 
 - 🌱 I’m currently learning **SQL**
-
-- 👨‍💻 All of my projects are available at [http://denizinsek.com/](http://denizinsek.com/)
-
+  
 - 📫 How to reach me **denizinansimsek@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
